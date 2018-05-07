@@ -1,0 +1,15 @@
+<RIBCL VERSION="2.0">
+    <LOGIN USER_LOGIN="iloadmin" PASSWORD="iloadmin">
+        <RIB_INFO MODE="write">
+            <MOD_NETWORK_SETTINGS>
+                <DHCP_SNTP_SETTINGS value="No"/>
+                <DHCPV6_SNTP_SETTINGS value="No"/>
+                <SNTP_SERVER1 value="%ntp1%"/>
+                <TIMEZONE value="Asia/Shanghai"/>
+            </MOD_NETWORK_SETTINGS>
+            <MOD_GLOBAL_SETTINGS>
+                <PROPAGATE_TIME_TO_HOST VALUE="No" /> 
+            </MOD_GLOBAL_SETTINGS>
+        </RIB_INFO>
+    </LOGIN>
+</RIBCL>
