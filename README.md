@@ -1,3 +1,5 @@
+HPQLOCFG 批量管理 HP iLO 实践 - https://wsgzao.github.io/post/hpqlocfg/
+
 ## HP Lights-Out Configuration Utility
 
 **RECOMMENDED** HP Lights-Out Configuration Utility
